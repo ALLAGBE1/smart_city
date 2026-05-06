@@ -2,3 +2,6 @@ streamlit
 pandas
 numpy
 matplotlib
+
+
+python -m streamlit run app.py
